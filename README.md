@@ -3,68 +3,63 @@
 </p>
 
 <p align="center">
-  <a href="https://AhmedMustafa-tech.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_case_studies-FF4D8D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-9411311a8/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Based_in-Cairo_(GMT+3)-8B5CF6?style=for-the-badge" alt="Cairo">
+  <a href="https://AhmedMustafa-tech.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-9411311a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahmeedmustafaaa@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 👋 I automate the busywork out of IT
+## About
 
-I run IT operations across two regional service desks, and I build the automation that makes them scale. If your team is chasing tickets by hand, removing leavers' access manually, or building reports in slides every month, that's exactly what I fix.
+IT Operations Engineer with 6+ years in IT support and operations. I manage service desk operations, identity and access, and endpoints, and I design the automation that removes repetitive work from IT teams: SLA monitoring, user lifecycle, and reporting.
 
-## 🛠️ What I can build for you
+Based in Cairo, Egypt. Available for freelance and contract work.
 
-| Service | What you get |
-|---|---|
-| ⚡ **n8n workflow automation** | Scheduled or event-driven workflows connecting Jira, Slack, Google Workspace, Notion and any REST API |
-| ⏱️ **SLA monitoring & reminders** | At-risk tickets flagged to the right person in Slack before they breach, with automatic escalation |
-| 🤖 **AI assistants for IT** | A Slack bot that answers questions about your queues and returns your approved procedures (OpenAI GPT) |
-| 🔐 **Onboarding & offboarding automation** | Access granted or removed across your directory, SSO, Google, Jira and Slack on schedule, with an audit trail |
-| 📊 **Live IT dashboards** | Jira data turned into an always-current dashboard your leadership can open anytime |
-| 🧩 **Jira Service Management setup** | Queues, JQL, SLA definitions and reporting that everyone agrees on |
+## Services
 
-## 🚀 Featured work
+| Service | Scope |
+|:--|:--|
+| **Workflow automation** | n8n workflows integrating Jira, Slack, Google Workspace, Notion and REST APIs |
+| **SLA monitoring** | Proactive alerts on at-risk tickets and automated escalation |
+| **User lifecycle** | Automated onboarding and offboarding across directory, SSO and SaaS, with an audit trail |
+| **Reporting & dashboards** | Live ITSM dashboards and scheduled reports for leadership |
+| **Jira Service Management** | Queue design, JQL, SLA configuration and reporting |
+| **AI assistants for IT** | Internal assistants that answer queue and procedure questions using OpenAI GPT |
 
-| | Project | Result |
-|---|---|---|
-| 🔐 | **Company-wide device MFA rollout** | MFA on every laptop across 3 entities, macOS & Windows, **zero permanent lockouts** |
-| 🤖 | **Atlas: AI SLA assistant in Slack** | Engineers stopped watching Jira by hand; stalled tickets escalate automatically |
-| ⏰ | **Same-day offboarding** | **14 manual steps → 0**: access removed at 18:00 on the last working day |
-| 📊 | **Executive IT dashboard** | Reporting went from **1× a month to 24× a day**, across 2 regions |
-| ✉️ | **Email deliverability incident (P0)** | Domain-wide sender audit in BigQuery; bulk mail moved to authenticated subdomains |
+## Selected work
 
-👉 **Full case studies, architecture and what I fixed along the way: [AhmedMustafa-tech.github.io/portfolio](https://AhmedMustafa-tech.github.io/portfolio/)**
+| Project | Outcome |
+|:--|:--|
+| **Device MFA rollout** | Phased rollout across macOS and Windows with a tested recovery path; no permanent lockouts |
+| **AI SLA assistant** | Flags at-risk tickets and escalates stalled ones, replacing manual queue checks |
+| **Offboarding automation** | Manual checklist fully automated; access removed on the employee's last day |
+| **Executive IT dashboard** | Monthly manual reporting replaced by a live, automatically refreshed dashboard |
+| **Email deliverability incident** | Sender audit and migration of bulk mail to authenticated subdomains (SPF, DKIM, DMARC) |
 
-## 📦 Open-source templates
+Case studies: **[ahmedmustafa-tech.github.io/portfolio](https://AhmedMustafa-tech.github.io/portfolio/)**
 
-| Repo | What it does |
-|---|---|
-| [**n8n-jira-sla-reminder**](https://github.com/AhmedMustafa-tech/n8n-jira-sla-reminder) | n8n workflow: DM the assignee in Slack before a Jira ticket breaches its SLA, escalate when it does |
-| [**n8n-it-offboarding**](https://github.com/AhmedMustafa-tech/n8n-it-offboarding) | n8n workflow: suspend a leaver in JumpCloud & Google Workspace and post a summary, with a safe dry-run mode |
-| [**it-ops-toolkit**](https://github.com/AhmedMustafa-tech/it-ops-toolkit) | Copy-paste snippets: JQL, Chrome version control, macOS fixes, SPF/DKIM/DMARC checks |
+## Open-source
 
+| Repository | Description |
+|:--|:--|
+| [n8n-jira-sla-reminder](https://github.com/AhmedMustafa-tech/n8n-jira-sla-reminder) | Notifies the assignee before a Jira ticket breaches its SLA and escalates on breach |
+| [n8n-it-offboarding](https://github.com/AhmedMustafa-tech/n8n-it-offboarding) | Suspends a departing user in JumpCloud and Google Workspace, with a dry-run mode |
+| [it-ops-toolkit](https://github.com/AhmedMustafa-tech/it-ops-toolkit) | Reference snippets: JQL, Chrome version control, macOS administration, email authentication |
 
-## 🧰 Tools I work with
+## Approach
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/JumpCloud-1B2A3A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
+1. **Discovery** — Document the current process, systems, owners and failure points.
+2. **Build** — Develop against test or read-only access; no production changes before sign-off.
+3. **Validate** — Test end to end with real scenarios and confirm the output with stakeholders.
+4. **Handover** — Documentation and a runbook so your team can operate it independently.
 
-## 🤝 How I work
+## Technical skills
 
-- **Read-only first.** Automations read your production data before they're ever allowed to change it.
-- **Verified at the destination.** I check the Slack channel, the sheet or the live page, not just the workflow log.
-- **Documented.** Every build ships with a runbook your team can maintain without me.
+| Area | Tools |
+|:--|:--|
+| **ITSM** | Jira Service Management, JQL, SLA management |
+| **Automation** | n8n, REST APIs, JavaScript, PowerShell, OpenAI API |
+| **Identity & access** | JumpCloud, Google Workspace, Active Directory, SSO, MFA |
+| **Data & reporting** | BigQuery, Google Sheets API, dashboards |
+| **Collaboration** | Slack API, Notion API |
 
----
-
-<p align="center"><b>Have a manual IT process that eats your team's week?</b><br>Message me on <a href="https://www.linkedin.com/in/ahmed-mohamed-9411311a8/">LinkedIn</a> and tell me about it.</p>
+**Certifications:** CCNA · MCSA
