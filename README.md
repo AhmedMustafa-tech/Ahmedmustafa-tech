@@ -1,55 +1,33 @@
-<div align="center">
+### Hi, I'm Ahmed 👋
 
-# Ahmed Mohamed
-### IT Helpdesk Engineer → IT Automation Engineer
+**IT Helpdesk Engineer in Cairo, open to IT Operations Engineer roles.**
+I run IT operations across two regional service desks, from onboarding and access to incidents and security rollouts, and I build the automation that makes them scale.
 
-*I build automation systems that eliminate manual IT work. From SLA monitoring bots to AI-powered Slack assistants — I turn repetitive processes into reliable, intelligent workflows.*
+🔗 **Portfolio:** https://AhmedMustafa-tech.github.io/portfolio/ · **LinkedIn:** [ahmed-mohamed](https://www.linkedin.com/in/ahmed-mohamed-9411311a8/)
 
 ---
 
-### 🤖 Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-0052CC?style=flat&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-FF6F00?style=flat&logoColor=white)
+#### What I've built and run
 
-### 🧠 AI & Agents
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5B21B6?style=flat&logoColor=white)
+| Project | What it does | Area |
+|---|---|---|
+| Device MFA rollout | Endpoint MFA on every company laptop across 3 entities, phased waves, zero permanent lockouts | Security · Operations |
+| Atlas | AI assistant in Slack that chases at-risk tickets before SLA breach and answers queue questions | Automation · AI |
+| Same-day offboarding | Removes access across directory, SSO, Google, Jira and Slack at 18:00 on the last day, with an audit trail | Security · Automation |
+| Executive IT dashboard | Live leadership view for 2 regions, refreshed hourly instead of a monthly deck | Reporting |
+| Email deliverability | P0 blocklisting incident: domain-wide sender audit in BigQuery, bulk mail moved to authenticated subdomains | Operations · Incident |
 
-### 🖥️ IT Systems
-![Jira](https://img.shields.io/badge/Jira_Cloud-0052CC?style=flat&logo=jira&logoColor=white)
-![JumpCloud](https://img.shields.io/badge/JumpCloud-007AFF?style=flat&logoColor=white)
+#### Tools I use
+
+![Jira](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=flat&logo=slack&logoColor=white)
+![JumpCloud](https://img.shields.io/badge/JumpCloud-1B2A3A?style=flat)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
-![MDM](https://img.shields.io/badge/MDM-34A853?style=flat&logoColor=white)
-
-### 💻 Development
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion_API-000000?style=flat&logo=notion&logoColor=white)
 
-### 🔗 Integrations
-![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=flat&logo=slack&logoColor=white)
-![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat&logo=notion&logoColor=white)
-![Jira API](https://img.shields.io/badge/Jira_API-0052CC?style=flat&logo=jira&logoColor=white)
-![GWS API](https://img.shields.io/badge/GWS_API-4285F4?style=flat&logo=google&logoColor=white)
-
----
-
-### 🚀 Projects Built
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **SLA Monitor Bot** | Automatically alerts IT team when Jira tickets breach SLA | n8n · Jira · Slack |
-| **AI Slack Agent** | AI-powered assistant that answers questions about your Jira queue in real time | n8n · OpenAI · Slack · Jira |
-| **IT Dashboard** | Live operations dashboard for ITSM and ITKSA projects | Notion · Jira API |
-| **Offboarding Bot** | Automates employee offboarding across JumpCloud and Google Workspace | n8n · JumpCloud · GWS |
-
----
-
-📍 Cairo, Egypt &nbsp;|&nbsp; 🏢 Tamara Technologies &nbsp;|&nbsp; ⚡ Open to automation consulting
-
-</div>
+<sub>Employer figures and internal details are intentionally not published.</sub>
