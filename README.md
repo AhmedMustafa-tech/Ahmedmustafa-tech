@@ -37,14 +37,6 @@ Based in Cairo, Egypt. Available for freelance and contract work.
 
 Case studies: **[ahmedmustafa-tech.github.io/portfolio](https://AhmedMustafa-tech.github.io/portfolio/)**
 
-## Open-source
-
-| Repository | Description |
-|:--|:--|
-| [n8n-jira-sla-reminder](https://github.com/AhmedMustafa-tech/n8n-jira-sla-reminder) | Notifies the assignee before a Jira ticket breaches its SLA and escalates on breach |
-| [n8n-it-offboarding](https://github.com/AhmedMustafa-tech/n8n-it-offboarding) | Suspends a departing user in JumpCloud and Google Workspace, with a dry-run mode |
-| [it-ops-toolkit](https://github.com/AhmedMustafa-tech/it-ops-toolkit) | Reference snippets: JQL, Chrome version control, macOS administration, email authentication |
-
 ## Approach
 
 1. **Discovery** — Document the current process, systems, owners and failure points.
@@ -54,12 +46,8 @@ Case studies: **[ahmedmustafa-tech.github.io/portfolio](https://AhmedMustafa-tec
 
 ## Technical skills
 
-| Area | Tools |
-|:--|:--|
-| **ITSM** | Jira Service Management, JQL, SLA management |
-| **Automation** | n8n, REST APIs, JavaScript, PowerShell, OpenAI API |
-| **Identity & access** | JumpCloud, Google Workspace, Active Directory, SSO, MFA |
-| **Data & reporting** | BigQuery, Google Sheets API, dashboards |
-| **Collaboration** | Slack API, Notion API |
-
-**Certifications:** CCNA · MCSA
+**ITSM:** Jira Service Management, JQL, SLA management  
+**Automation:** n8n, REST APIs, JavaScript, PowerShell, OpenAI API  
+**Identity & access:** JumpCloud, Google Workspace, Active Directory, SSO, MFA  
+**Data & reporting:** BigQuery, Google Sheets API  
+**Certifications:** CCNA, MCSA
