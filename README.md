@@ -35,6 +35,15 @@ I run IT operations across two regional service desks, and I build the automatio
 
 👉 **Full case studies, architecture and what I fixed along the way: [AhmedMustafa-tech.github.io/portfolio](https://AhmedMustafa-tech.github.io/portfolio/)**
 
+## 📦 Open-source templates
+
+| Repo | What it does |
+|---|---|
+| [**n8n-jira-sla-reminder**](https://github.com/AhmedMustafa-tech/n8n-jira-sla-reminder) | n8n workflow: DM the assignee in Slack before a Jira ticket breaches its SLA, escalate when it does |
+| [**n8n-it-offboarding**](https://github.com/AhmedMustafa-tech/n8n-it-offboarding) | n8n workflow: suspend a leaver in JumpCloud & Google Workspace and post a summary, with a safe dry-run mode |
+| [**it-ops-toolkit**](https://github.com/AhmedMustafa-tech/it-ops-toolkit) | Copy-paste snippets: JQL, Chrome version control, macOS fixes, SPF/DKIM/DMARC checks |
+
+
 ## 🧰 Tools I work with
 
 <p>
